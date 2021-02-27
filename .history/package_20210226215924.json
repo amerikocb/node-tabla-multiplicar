@@ -1,0 +1,11 @@
+{
+  "name": "bases",
+  "version": "1.0.0",
+  "description": "Crear archivos de tabla de multiplicar",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Americo Cueva",
+  "license": "ISC"
+}
